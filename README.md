@@ -7,4 +7,4 @@
 
 ## Skills
 
-![Python Logo](https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg)
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50" alt="Python Logo">
