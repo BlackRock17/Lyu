@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Lyubomir
 
-  I'm a passionate Python/JS web developer who loves learning and exploring new technologies. With a strong foundation in Python, I enjoy building robust and interactive web applications.
-  When I'm not coding, you can find me swimming or playing chess. I believe in the power of continuous learning and always strive to expand my knowledge in the ever-evolving world of technology.
+  - I'm a passionate Python/JS web developer who loves learning and exploring new technologies. With a strong foundation in Python, I enjoy building robust and interactive web applications.
+
+  - In addition to web development, I have a keen interest in blockchain and smart contract technologies. I am fascinated by the potential of decentralized systems and their applications in various industries. I am actively learning about these cutting-edge technologies and exploring ways to integrate them into my projects.
+- When I'm not coding, you can find me swimming or playing chess. I believe in the power of continuous learning and always strive to expand my knowledge in the ever-evolving world of technology.
+  
 
 ---
 
@@ -61,5 +64,18 @@
     <img src="https://github.com/BlackRock17/Lyu/blob/main/images/147732.jpg" alt="Python Basics" width="200" height="300">
   </a>
   
+</span>
+
+---
+
+## Contacts
+
+<span>
+  <a href="www.linkedin.com/in/lyubo1718" target="blank">
+    <img align="center" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/Lyyuboo" target="blank">
+    <img align="center" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/twitter/twitter-original.svg" alt="x" height="30" width="40" />
+  </a>
 </span>
 
