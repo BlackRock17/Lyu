@@ -26,3 +26,40 @@
   <img src="https://static-00.iconduck.com/assets.00/regex-icon-2048x2043-arbrscqt.png" width="40" height="40" alt="Regex Logo" margin-right: 10px;>
 </span>
 
+---
+
+## Certifications
+<span>
+  <a href="https://softuni.bg/certificates/details/212675/bfd1443f" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Django_Advance.jpg" alt="Django Advance" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/207382/f9247363" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Django%20Basics.jpg" alt="Django Basics" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/173802/e07f7c87" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Python_Advance.jpg" alt="Python Advance" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/180847/4761dbe5" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Python_OOP.jpg" alt="Python OOP" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/185995/de697438" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/postgreSQL.jpg" alt="postgreSQL" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/172381/7e4a8657" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/mySQL.jpg" alt="mySQL" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/193795/bbc562e1" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Python_ORM.jpg" alt="Python ORM" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/167154/187b45bc" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Fundamentals.jpg" alt="Python Fundamentals" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/148341/6f8c8326" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/math.jpg" alt="Math" width="200" height="300">
+  </a>
+  <a href="https://softuni.bg/certificates/details/147732/43136b6d" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/147732.jpg" alt="Python Basics" width="200" height="300">
+  </a>
+  
+</span>
+
