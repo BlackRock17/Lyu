@@ -7,7 +7,7 @@
 
 ## Skills
 <style>
-  span > a > img {
+  span > a {
     margin-right: 10px;
   }
 </style>
