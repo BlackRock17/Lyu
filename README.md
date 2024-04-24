@@ -6,13 +6,11 @@
 ---
 
 ## Skills
-<style>
-  span > a {
-    margin-right: 10px;
-  }
-</style>
 
 <span>
+  <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+    <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" width="40" height="40" alt="Python Logo">
+  </a>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="40" height="40" alt="Python Logo" margin-right: 50px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="50" height="40" alt="Django Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS Logo" margin-right: 10px;>
