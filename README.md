@@ -6,6 +6,11 @@
 ---
 
 ## Skills
+<style>
+  .logo {
+    margin-right: 10px;
+  }
+</style>
 
 <span>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="40" height="40" alt="Python Logo" margin-right: 50px;>
@@ -22,7 +27,7 @@
 </span>
 
 <span>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="40" height="40" alt="Python Logo" style="margin-right: 50px;">
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="40" height="40" alt="Python Logo" class="logo">
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="40" height="40" alt="Django Logo" style="margin-right: 50px;">
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS Logo" style="margin-right: 10px;">
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML Logo" style="margin-right: 10px;">
